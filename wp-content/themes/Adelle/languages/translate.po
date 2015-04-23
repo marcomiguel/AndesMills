@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Adelle Theme\n"
+"POT-Creation-Date: 2013-07-29 16:29+0800\n"
+"PO-Revision-Date: 2013-07-29 16:30+0800\n"
+"Last-Translator: Andrew Wong <hello@bluchic.com>\n"
+"Language-Team: BluChic <hello@bluchic.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:11
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:16 content-none.php:10
+msgid "Archives by month"
+msgstr ""
+
+#: 404.php:22 content-none.php:16
+msgid "Archives by category"
+msgstr ""
+
+#: archive.php:8
+msgid "Archive of"
+msgstr ""
+
+#: archive.php:8
+msgid "category"
+msgstr ""
+
+#: archive.php:10
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:12 archive.php:14 archive.php:16
+msgid "archive"
+msgstr ""
+
+#: archive.php:18
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:20
+msgid "Blog Archives"
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments"
+msgstr ""
+
+#: comments.php:18 content-list.php:24 content.php:19
+msgid "0 comment"
+msgstr ""
+
+#: comments.php:18 content-list.php:24 content.php:19
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:18 content-list.php:24 content.php:19
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:18
+msgid "on"
+msgstr ""
+
+#: comments.php:23
+msgid "Pingbacks &amp; Trackbacks on"
+msgstr ""
+
+#: comments.php:36
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:49 comments.php:55
+msgid "Comment"
+msgstr ""
+
+#: comments.php:50
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:51
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: comments.php:52
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:57
+msgid "Name"
+msgstr ""
+
+#: comments.php:58
+msgid "Email"
+msgstr ""
+
+#: comments.php:59
+msgid "Website"
+msgstr ""
+
+#: content-list.php:6 content.php:6
+msgid "bookmark"
+msgstr ""
+
+#: content-list.php:7 content.php:7
+msgid "categories"
+msgstr ""
+
+#: content-none.php:3
+msgid "Not Found"
+msgstr ""
+
+#: content-none.php:5
+msgid ""
+"You have come to a page that is either not existing or already been removed"
+msgstr ""
+
+#: content.php:23
+msgid "<li class=\"previous\">&laquo; %link</li>"
+msgstr ""
+
+#: content.php:24
+msgid "<li class=\"next\">%link &raquo;</li>"
+msgstr ""
+
+#: footer.php:4
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:4
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:4
+msgid "Adelle theme designed by BluChic"
+msgstr ""
+
+#: footer.php:4
+msgid "Designed by"
+msgstr ""
+
+#: functions.php:95
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:157
+msgid "Please enable referrers in your browser."
+msgstr ""
+
+#: functions.php:167
+msgid "ago"
+msgstr ""
+
+#: functions.php:179
+#, php-format
+msgid "<h6>%s</h6>"
+msgstr ""
+
+#: functions.php:180
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:180
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:182
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:207
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:283
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:288
+msgid "Next page"
+msgstr ""
+
+#: functions.php:289
+msgid "Previous page"
+msgstr ""
+
+#: functions.php:310
+msgid "Previous"
+msgstr ""
+
+#: functions.php:311
+msgid "Next"
+msgstr ""
+
+#: functions.php:331
+msgid "Right Widget 1"
+msgstr ""
+
+#: header.php:43 header.php:44 searchform.php:3 searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: search.php:7
+msgid "Searching for"
+msgstr ""

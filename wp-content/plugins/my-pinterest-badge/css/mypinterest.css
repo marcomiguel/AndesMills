@@ -1,0 +1,83 @@
+/* 
+    Document   : mypinterest
+    Created on : 19 Oct, 2012, 7:32:30 PM
+    Author     : Guru
+    Description:
+        Purpose of the stylesheet follows:
+        Stylesheet for MyPinterest Badge.
+*/
+
+root { 
+    display: block;
+}
+
+.topwrapper {
+    text-align: left;
+    text-shadow: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    clear: both; 
+}
+.middlewrapper {
+    text-align: left;
+    text-shadow: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    clear: both;
+
+}
+.bottomwrapper {
+    border: 0px solid white;
+    overflow: hidden;
+    background-color: inherit;
+    text-align: left;
+    text-shadow: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    color: #333;
+    clear: both;
+}
+.pinwidget {
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+    -khtml-border-radius: 2px;
+    border-radius: 2px;
+    clear: both;
+    margin: 0;
+    padding: 0;
+}
+
+.pinwidget a {
+    color: #3B5998;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.myimgs {
+    margin: 5px 0 0 0;
+}
+.pins-small {
+    margin: 0 0 5px 5px;
+    float: left;
+    width: 56px;
+    height: 56px;
+}
+.pins-mid {
+    margin: 0 0 5px 5px;
+    float: left;
+    width: 80px;
+    height: 80px;
+}
+.pins-big {
+    margin: 0 0 5px 5px;
+    float: left;
+    width: 125px;
+    height: 125px;
+}
+

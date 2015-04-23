@@ -1,0 +1,49 @@
+/*
+Theme Name: Adelle
+Description: WordPress theme by BluChic
+Version: 13.08
+Author: BluChic
+Author URI: http://www.bluchic.com
+Theme URI: http://www.bluchic.com
+License: GPL
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, pink, white, light, two-columns, right-sidebar, fixed-width, custom-background, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, theme-options, threaded-comments, translation-ready
+*/
+
+/* 
+html5doctor.com Reset Stylesheet
+v1.6.1
+Last Updated: 2010-09-17
+Author: Richard Clark - http://richclarkdesign.com 
+Twitter: @rich_clark
+*/
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+article, aside, canvas, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent;}
+article,aside,details,figcaption,figure, footer,header,hgroup,menu,nav,section {display: block;}
+nav ul {list-style: none;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after, q:before, q:after {content: ''; content: none;}
+a {margin: 0; padding: 0; vertical-align: baseline; background: transparent;}
+ins {background-color: #ff9; color: #000; text-decoration: none;}
+mark {background-color: #ff9; color: #000; font-style: italic; font-weight: bold;}
+del {text-decoration: line-through;}
+abbr[title], dfn[title] {border-bottom: 1px dotted; cursor: help;}
+table {border-collapse: collapse; border-spacing: 0; padding: 5px; font-size: 1em; width: 100%; border-top: 1px solid #ddd; border-right: 1px solid #ddd;}
+tr, th, td, tbody, thead, tfoot {padding: 10px; vertical-align: top; border-left: 1px solid #ddd; border-bottom: 1px solid #ddd;}
+th {background: #efefef;}
+input, select {vertical-align: middle;}
+:focus {outline: 0;}
+hr {background: none; border: none; margin: 10px 0; border-bottom: 1px solid #ccc; clear: both;}
+code {font-size: 1.1em;}
+code {display: inline-block; border: 1px solid #eee; font-size: 0.9em; padding: 0 3px;}
+pre {overflow: auto; font-family: 'courier new', courier, monospace; font-size: 0.85em; padding: 10px;  border: 1px solid #ccc;}
